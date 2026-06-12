@@ -48,13 +48,13 @@ Over the last two years, I have expanded into applied ML and GenAI where they im
 
 These projects support the analytics-engineering and senior analyst side of my profile:
 
-| Project area | Signal |
-|---|---|
-| A/B testing in SQL | Experiment design, metric definition, statistical thinking |
-| Retention cohorts | Cohort logic, repeatable retention views, product analytics |
-| LTV / ROAS funnels | Growth analytics, marketing efficiency, acquisition quality |
-| Feature engineering for ML | SQL-to-ML data preparation and reusable feature logic |
-| ETL / Redshift-style pipeline | Data modeling, warehouse thinking, reproducibility |
+| Project area | Signal | Repo |
+|---|---|---|
+| A/B testing in SQL | Experiment design, metric definition, statistical thinking | [Repo](https://github.com/AndreyLoskutov/sql-ab-testing-statistical-analysis) |
+| Retention cohorts | Cohort logic, repeatable retention views, product analytics |[Repo](https://github.com/AndreyLoskutov/sql-retention-cohort) |
+| LTV / ROAS funnels | Growth analytics, marketing efficiency, acquisition quality |[Repo](https://github.com/AndreyLoskutov/sql-ltv-roas-funnel) |
+| Feature engineering for ML | SQL-to-ML data preparation and reusable feature logic |[Repo](https://github.com/AndreyLoskutov/sql-feature-engineering-ml) |
+| ETL / Redshift-style pipeline | Data modeling, warehouse thinking, reproducibility |[Repo](https://github.com/AndreyLoskutov/sql-etl-pipeline-redshift) |
 
 ---
 
